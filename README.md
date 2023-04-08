@@ -9,7 +9,7 @@ If you use the classic method, namely, the p.njupt.edu.cn, foregoing will not ha
 MAY HAVE OTHER DANGEROUS BUGS.
 
 # GUIDE
-Install python and add it to path, then run "pip install requests".
+Install python and add it to path, then run "pip install requests" in command-line tools.
 
 View the source code for your operating system and made necessary changes.
 
