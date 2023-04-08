@@ -8,7 +8,11 @@ MAY HAVE OTHER DANGEROUS BUGS.
 
 # GUIDE
 Install python and add it to path, then run "pip install requests".
+
 View the source code for your operating system and made necessary changes.
+
 The only thing you need to change is the Student ID, your password, and your network provider.
+
 Run it and see if it works.
+
 We only test the ChinaNet, and that is supported.
