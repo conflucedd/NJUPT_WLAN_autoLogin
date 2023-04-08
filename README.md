@@ -17,4 +17,4 @@ The only thing you need to change is the Student ID, your password, and your net
 
 Run it and see if it works.
 
-We only test the ChinaNet, and that is supported.
+We test the ChinaNet and CMCC, and those is supported.
