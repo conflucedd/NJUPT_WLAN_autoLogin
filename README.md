@@ -8,6 +8,6 @@ If you use the classic method, namely, the p.njupt.edu.cn, foregoing will not ha
 
 # GUIDE
 Install python and add it to path, then run
-    pip install requests
+"pip install requests"
 before you execute the script.
 
