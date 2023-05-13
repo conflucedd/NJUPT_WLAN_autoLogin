@@ -17,4 +17,9 @@ The only thing you need to change is the Student ID, your password, and your net
 
 # GUIDE FOR RUST
 [dependencies]
+
 reqwest = { version = "0.11.17", features = ["blocking"] }
+
+View the source code and made necessary changes.
+
+The only thing you need to change is the Student ID, your password, and your network provider.
