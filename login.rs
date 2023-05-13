@@ -6,6 +6,16 @@ fn main()
         .build()
         .unwrap()
         .post("http://10.10.244.11:801/eportal/?c=ACSetting&a=Login&wlanacip=10.255.252.150")
-        .form(&[("DDDDD", ",1,Bxxxxxxxx@njxy"), ("upass", "YOUR_PASSWORD")])
+
+
+// IMPORTANT!!!
+// In the next code line:
+
+// replace "Bxxxxxxxx" and "YOUR_PASSWORD" to your Student ID and password
+// replace "@xxxx" to "@cmcc" if you use the NJUPT_CMCC; to "@njxy" if you use NJUPT_CHINANET
+// delete "@xxxx" if you use the WLAN NJUPT. (this is not tested)
+        .form(&[("DDDDD", ",1,Bxxxxxxxx@xxxx"), ("upass", "YOUR_PASSWORD")])
+//                             ######## ####               #############
+
         .send();
 }
